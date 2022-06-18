@@ -131,3 +131,5 @@ dmypy.json
 # My settings
 .idea
 .idea/
+.env
+.env.*
